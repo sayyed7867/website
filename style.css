@@ -1,0 +1,334 @@
+* {
+  padding: 0px;
+  margin: 0px;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+nav a img {
+  height: 40px;
+}
+
+.header {
+  border: 0px;
+  margin-top: 10px;
+  text-align: center;
+  padding: 5px;
+  background-color: rgb(41, 10, 242);
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Cinzel', serif;
+}
+
+.header {
+  /* width: 400px;
+  height: 100px; */
+  /* background: red; */
+  position: relative;
+  animation: mymove 5s infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes mymove {
+  from {
+    left: 0px;
+  }
+
+  to {
+    left: 200px;
+  }
+}
+
+.section1 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  padding: 8px;
+  background-color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.section1 h3 {
+  color: blue;
+  font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.section1 img {
+  height: 300px;
+  width: 620px;
+}
+
+.section2 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  padding: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.section2 h3 {
+  color: blue;
+  font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.section2 img {
+  height: 300px;
+  width: 620px;
+}
+
+.sport1 {
+  border: 0px;
+  height: 620px;
+  margin-top: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  /* padding: 8px;
+    overflow: hidden; */
+}
+
+.sport1 img {
+  height: 300px;
+  width: 427px;
+
+}
+
+
+.sport2 {
+  border: 0px;
+  height: 620px;
+  margin-top: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sport2 img {
+  height: 300px;
+  width: 427px;
+
+}
+
+.sport3 {
+  border: 0px;
+  height: 620px;
+  margin-top: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sport3 img {
+  height: 300px;
+  width: 427px;
+
+}
+
+.bolly1 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  padding: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bolly1 img {
+  height: 300px;
+  width: 620px;
+
+}
+
+.bolly2 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.bolly2 img {
+  height: 300px;
+  width: 620px;
+
+}
+
+.education1 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  padding: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.education1 img {
+  height: 300px;
+  width: 620px;
+
+}
+
+.education2 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.education2 img {
+  height: 300px;
+  width: 620px;
+
+}
+
+.politics1 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  padding: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.politics1 img {
+  height: 300px;
+  width: 620px;
+
+}
+
+.politics2 {
+  border: 0px;
+  height: 500px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.politics2 img {
+  height: 300px;
+  width: 620px;
+
+}
+
+
+#about-us {
+  background-color: white;
+  padding: 40px 0;
+  text-align: center;
+  margin-top: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#about-us .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#about-us h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: blue;
+}
+
+#about-us h3 {
+  font-size: 22px;
+  margin-top: 40px;
+  color: blue;
+}
+
+#about-us p {
+  margin-bottom: 20px;
+}
+
+#about-us ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+#about-us ul li {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+
+
+
+#contact-us {
+  background-color: white;
+
+  padding: 40px 0;
+  text-align: center;
+  margin-top: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#contact-us .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#contact-us h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: blue;
+}
+
+#contact-us p {
+  margin-bottom: 20px;
+}
+
+
+
+#contact-us .contact-info {
+  margin-top: 40px;
+
+}
+
+.contact-info h3 {
+  color: blue;
+}
+
+
+
+.footer {
+  background-color: blue;
+  padding: 20px 0;
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+  font-size: 14px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+@media screen and (max-width: 767px) {
+
+
+/* you not inform thats why not used media queries */
+ 
+}
+/* media queries for tablet  */
+@media screen and (min-width: 768px) and (max-width:992px) {
+}
